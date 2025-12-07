@@ -29,7 +29,7 @@ The pipeline covers the standard stages: **Data Loading**, **Model Training & Ev
 
     ```bash
     git clone https://github.com/ou-rithy/ai_midterm.git
-    cd ai.midterm
+    cd ai_midterm
     ```
 
 2.  **Install dependencies:**
@@ -129,5 +129,6 @@ curl -X 'POST' \
   }
 }
 ```
+
 
 
