@@ -121,21 +121,3 @@ The API returns the predicted class name, the numerical label, and the predictio
 }
 ```
 
------
-
-## 5\. 📚 Documentation (Jupyter Notebook)
-
-The `midterm_training.ipynb` notebook serves as the detailed, step-by-step documentation for **Task 1**, showing the initial data loading, exploration, and metric calculations before the logic was moved into the MLflow script.
-
------
-
-## 6\. 🤝 Submission Requirements
-
-The following files meet the assignment requirements:
-
-| Requirement | File | Purpose |
-| :--- | :--- | :--- |
-| Jupyter Notebook Script | `midterm_training.ipynb` | Detailed initial development and evaluation. |
-| Python Script MLflow Tracking | `mlflow_tracking.py` | Experimentation, training, and tracking. |
-| Python Deployment Code | `app.py` | FastAPI application for serving predictions. |
-| Documentation | `README.md` | Provides instructions on running the application. |
