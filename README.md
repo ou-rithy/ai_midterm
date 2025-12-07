@@ -34,8 +34,8 @@ The pipeline covers the standard stages: **Data Loading**, **Model Training & Ev
 1.  **Clone the repository:**
 
     ```bash
-    git clone <your_repo_url>
-    cd <repo_folder>
+    git clone https://github.com/ou-rithy/ai_midterm.git
+    cd ai.midterm
     ```
 
 2.  **Install dependencies:**
@@ -135,3 +135,4 @@ curl -X 'POST' \
   }
 }
 ```
+
