@@ -1,9 +1,3 @@
-That's a great final step\! A well-written `README.md` is crucial for documenting your pipeline and ensuring reproducibility.
-
-Here is the complete `README.md` file based on the successful execution of your three tasks:
-
------
-
 # 🚀 Midterm ML Pipeline: Iris Classification Deployment
 
 This project demonstrates an end-to-end Machine Learning pipeline using Python, scikit-learn, MLflow for experiment tracking, and FastAPI for model deployment.
@@ -135,4 +129,5 @@ curl -X 'POST' \
   }
 }
 ```
+
 
